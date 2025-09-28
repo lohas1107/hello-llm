@@ -1,0 +1,8 @@
+{
+    "cucumber.features": [
+        "e2e/src/test/resources/features/**/*.feature"
+    ],
+    "cucumber.glue": [
+        "e2e/src/test/java/**/*.java"
+    ]
+}
